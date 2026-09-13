@@ -33,25 +33,7 @@ Vehicle-kilometre variables are excluded from the primary models because they ar
 - Random Forest Regressor - Dooshina Oolun
 - Gradient Boosting Regressor - Adam Ayad
 
-## Current files
 
-### `01_data_preparation_eda.ipynb`
-Loads, inspects, cleans and joins the LAEI traffic and emissions datasets and creates the common modelling dataset.
-
-### `02_regression_brentin.ipynb`
-Develops and evaluates the baseline regression models.
-
-### `laei2019_model_data.csv`
-Shared processed dataset to be used by all three group members.
-
-### `regression_results.csv`
-Performance metrics for the mean baseline, Linear Regression and Ridge Regression.
-
-### `ridge_actual_vs_predicted.png`
-Actual versus predicted NOx values for Ridge Regression.
-
-### `ridge_residuals.png`
-Residual plot for Ridge Regression.
 
 ## Evaluation metrics
 
